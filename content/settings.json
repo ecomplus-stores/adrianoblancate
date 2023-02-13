@@ -1,7 +1,7 @@
 {
   "domain": "adrianoblancate.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#0e0e0e",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/adrianoblancate",
   "logo": "/img/uploads/blancate-removebg-preview.png",
-  "name": "adrianoblancate",
-  "short_name": "adrianoblancate",
+  "name": "Blancate",
+  "short_name": "Blancate",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#30ef08",
+  "secondary_color": "#000000",
   "icon": "/img/icon.png",
   "store_id": 51349,
   "description": "adrianoblancate",
