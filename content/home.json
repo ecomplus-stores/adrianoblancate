@@ -36,6 +36,10 @@
       "page": 1,
       "collection_id": "63de7716b9e5be0778525a7e:categories:Seleções:/selecoes",
       "sort": "slug"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/copa-do-mundo-desenho.webp"
     }
   ]
 }
