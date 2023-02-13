@@ -40,6 +40,14 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/copa-do-mundo-desenho.webp"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/copa-do-mundo-desenho.webp"
+        }
+      ]
     }
   ]
 }
