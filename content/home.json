@@ -43,6 +43,23 @@
           "img": "/img/uploads/banner-03.webp"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 7000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-03.webp"
+        },
+        {
+          "start": "2023-02-18T02:08:46.656Z",
+          "end": "",
+          "img": "/img/uploads/chuteiras-123.webp"
+        }
+      ]
     }
   ]
 }
