@@ -1166,6 +1166,12 @@
     </url>
   
     <url>
+      <loc>https://adrianoblancate.netlify.app/manchester-united-c167-c195-c570-c785-c268-c649-c606-c626-c605-c343</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://adrianoblancate.netlify.app/lancamentos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
