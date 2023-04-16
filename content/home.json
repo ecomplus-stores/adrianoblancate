@@ -81,6 +81,14 @@
       "limit": 24,
       "offset": 0,
       "sort": "name"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/d3d7ibr.jpeg"
+        }
+      ]
     }
   ]
 }
