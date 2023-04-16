@@ -49,11 +49,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/vd9vl1x.jpeg"
-        },
-        {
-          "start": "2023-02-18T02:08:46.656Z",
-          "end": "",
-          "img": "/img/uploads/chuteiras-123.webp"
         }
       ]
     },
@@ -68,9 +63,6 @@
     {
       "type": "banners-grid",
       "banners": [
-        {
-          "img": "/img/uploads/lwbskdi.jpeg"
-        },
         {
           "img": "/img/uploads/d3d7ibr.jpeg"
         },
