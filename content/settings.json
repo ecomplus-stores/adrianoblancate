@@ -1,7 +1,7 @@
 {
   "domain": "blancatesports.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#0e0e0e",
+  "primary_color": "#00ff07",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
