@@ -120,6 +120,18 @@
     {
       "type": "dynamic-showcase",
       "load_more": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/camisa-borussia-abril-2023.jpeg"
+        }
+      ]
     }
   ]
 }
