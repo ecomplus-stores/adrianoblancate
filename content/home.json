@@ -101,7 +101,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/d3d7ibr.jpeg",
+          "img": "/img/uploads/banner_nba.png",
           "link": "https://blancatesports.com.br/femininas"
         }
       ]
@@ -121,22 +121,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/camisa-borussia-abril-2023.jpeg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/camisa-roma-abril-2023.jpeg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/camisa-colo-colo-abril-2023.jpeg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/camisa-nacional-abril-2023.jpeg"
+          "img": "/img/uploads/banner_retro.png"
         }
       ]
     }
