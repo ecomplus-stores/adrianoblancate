@@ -10,8 +10,22 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/ua6looc.jpeg",
-          "link": "https://blancatesports.com.br/clubes"
+          "img": "/img/uploads/banner_paulistas.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_cariocas.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_gauchos.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_mineiros.png"
         }
       ]
     },
