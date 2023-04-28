@@ -47,7 +47,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/champions-league.png"
+          "img": "/img/uploads/banner_championsleague.jpg",
+          "link": "https://blancatesports.com.br/champions-league"
         }
       ]
     },
