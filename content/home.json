@@ -4,28 +4,14 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 2000,
       "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner_paulistas.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_cariocas.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_gauchos.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_mineiros.png"
+          "img": "/img/uploads/banner_paulistas.jpg",
+          "link": "https://blancatesports.com.br/brasileirao"
         }
       ]
     },
