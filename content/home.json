@@ -61,13 +61,9 @@
       "sort": "slug"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 7000,
-      "full_width": false,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/banner_libertadores.jpg",
           "link": "https://blancatesports.com.br/libertadores"
         }
@@ -143,15 +139,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner_femininas.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner_libertadores.jpg",
-          "link": "https://blancatesports.com.br/libertadores"
         }
       ]
     }
