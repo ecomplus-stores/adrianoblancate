@@ -44,19 +44,6 @@
       "page": 1
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_libertadores.jpg",
-          "link": "https://blancatesports.com.br/champions-league"
-        }
-      ]
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -156,6 +143,15 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner_femininas.jpg"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner_libertadores.jpg",
+          "link": "https://blancatesports.com.br/libertadores"
         }
       ]
     }
