@@ -57,7 +57,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "63f0e01cf4167e223c94273c:categories:Premier League:/premiere-league",
+      "collection_id": "63f0e518f4167e223c942b2b:categories:La Liga:/la-liga",
       "sort": "slug"
     },
     {
@@ -68,12 +68,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/libertadores.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/perso-vini.png"
+          "img": "/img/uploads/banner_libertadores.jpg",
+          "link": "https://blancatesports.com.br/libertadores"
         }
       ]
     },
@@ -82,15 +78,15 @@
       "shuffle": true,
       "limit": 20,
       "page": 1,
-      "collection_id": "63f0e518f4167e223c942b2b:categories:La Liga:/la-liga",
+      "collection_id": "63f0edb7f4167e223c943453:categories:Serie A:/serie-a",
       "sort": "views"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner_femininas.png",
-          "link": "https://blancatesports.com.br/colecao-de-inverno"
+          "img": "/img/uploads/banner_personalize.jpg",
+          "link": ""
         }
       ]
     },
