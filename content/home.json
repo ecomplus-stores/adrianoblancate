@@ -95,15 +95,15 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "collection_id": "63f0edb7f4167e223c943453:categories:Serie A:/serie-a",
+      "collection_id": "63f0f14cf4167e223c94367b:categories:Bundesliga:/bundesliga",
       "sort": null
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner_nba.png",
-          "link": "https://blancatesports.com.br/femininas"
+          "img": "/img/uploads/banner_retro.jpg",
+          "link": "https://blancatesports.com.br/retro"
         }
       ]
     },
@@ -112,7 +112,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "63f117f8f4167e223c9457d2:categories:MLS:/mls"
+      "collection_id": "63f10f1bf4167e223c944eb7:categories:Ligue 1:/ligue-1"
     },
     {
       "type": "banner-slider",
@@ -122,7 +122,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner_retro.png"
+          "img": "/img/uploads/banner_femininas.jpg",
+          "link": "https://blancatesports.com.br/femininas"
         }
       ]
     }
