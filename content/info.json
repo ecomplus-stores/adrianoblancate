@@ -8,11 +8,11 @@
     "text": "Parcele em 10x sem juros!"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Personalize a sua camisa!"
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
