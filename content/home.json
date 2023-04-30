@@ -74,10 +74,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 20,
+      "limit": 21,
       "page": 1,
       "collection_id": "63f0edb7f4167e223c943453:categories:Serie A:/serie-a",
-      "sort": "views"
+      "sort": "views",
+      "autoplay": 1000
     },
     {
       "type": "banners-grid",
@@ -94,7 +95,8 @@
       "limit": 24,
       "page": 1,
       "collection_id": "63f0f14cf4167e223c94367b:categories:Bundesliga:/bundesliga",
-      "sort": null
+      "sort": null,
+      "autoplay": 1000
     },
     {
       "type": "banners-grid",
@@ -128,9 +130,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
-      "collection_id": "63f117f8f4167e223c9457d2:categories:MLS:/mls"
+      "collection_id": "63f117f8f4167e223c9457d2:categories:MLS:/mls",
+      "autoplay": 1000
     },
     {
       "type": "breadcrumbs",
