@@ -110,9 +110,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 24,
       "page": 1,
-      "collection_id": "63f10f1bf4167e223c944eb7:categories:Ligue 1:/ligue-1"
+      "collection_id": "63f10f1bf4167e223c944eb7:categories:Ligue 1:/ligue-1",
+      "autoplay": 1000
     },
     {
       "type": "banners-grid",
