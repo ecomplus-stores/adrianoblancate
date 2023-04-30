@@ -129,18 +129,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63f117f8f4167e223c9457d2:categories:MLS:/mls"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner_femininas.jpg"
-        }
-      ]
     }
   ]
 }
