@@ -38,7 +38,7 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "autoplay": 3000,
+      "autoplay": 3500,
       "collection_id": "63c9ebacb9e5be07783f5f52:categories:Ofertas:/ofertas"
     },
     {
@@ -47,12 +47,12 @@
       "limit": 22,
       "page": 1,
       "collection_id": "63c733134834634f733a078d:categories:Lançamentos:/lancamentos",
-      "autoplay": 3000
+      "autoplay": 3500
     },
     {
-      "autoplay": 3000,
+      "autoplay": 3500,
       "page": 1,
-      "title": "Premier League 🇬🇧",
+      "title": "",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
@@ -76,7 +76,7 @@
       "page": 1,
       "collection_id": "63f0e518f4167e223c942b2b:categories:La Liga:/la-liga",
       "sort": "slug",
-      "autoplay": 3000
+      "autoplay": 3500
     },
     {
       "type": "banners-grid",
@@ -94,7 +94,7 @@
       "page": 1,
       "collection_id": "63f0edb7f4167e223c943453:categories:Serie A:/serie-a",
       "sort": "views",
-      "autoplay": 3000
+      "autoplay": 3500
     },
     {
       "type": "banners-grid",
@@ -112,7 +112,7 @@
       "page": 1,
       "collection_id": "63f0f14cf4167e223c94367b:categories:Bundesliga:/bundesliga",
       "sort": null,
-      "autoplay": 3000
+      "autoplay": 3500
     },
     {
       "type": "banners-grid",
@@ -129,7 +129,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "63f10f1bf4167e223c944eb7:categories:Ligue 1:/ligue-1",
-      "autoplay": 3000
+      "autoplay": 3500
     },
     {
       "type": "banners-grid",
@@ -150,7 +150,7 @@
       "limit": 24,
       "page": 1,
       "collection_id": "63f117f8f4167e223c9457d2:categories:MLS:/mls",
-      "autoplay": 3000
+      "autoplay": 3500
     },
     {
       "type": "banners-grid",
