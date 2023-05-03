@@ -153,8 +153,12 @@
       "autoplay": 2500
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/7c8opdw.jpeg"
+        }
+      ]
     }
   ]
 }
