@@ -41,6 +41,10 @@
       "page": 1,
       "collection_id": "63c733134834634f733a078d:categories:Lançamentos:/lancamentos",
       "sort": "news"
+    },
+    {
+      "type": "recommended-products",
+      "title": "Quem comprou este produto, também comprou:"
     }
   ]
 }
