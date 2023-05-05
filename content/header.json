@@ -6,9 +6,13 @@
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "atendimento@blancatesports.com.br"
+      }
+    ],
     "phone_wpp": true,
-    "socials": false
+    "socials": true
   },
   "categories_list": {
     "featured": [],
