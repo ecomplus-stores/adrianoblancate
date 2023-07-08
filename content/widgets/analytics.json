@@ -5,7 +5,6 @@
   "enableCheckout": true,
   "options": {
     "gaTrackingId": "G-KH9SV63G0Y",
-    "googleAdsId": " <!-- Google tag (gtag.js) --> <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-KH9SV63G0Y\"></script> <script>   window.dataLayer = window.dataLayer || [];   function gtag(){dataLayer.push(arguments);}   gtag('js', new Date());    gtag('config', 'G-KH9SV63G0Y'); </script>"
-  },
+    "googleAdsId": ""},
   "headAppend": "src/append/head"
 }
