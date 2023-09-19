@@ -33,18 +33,18 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "autoplay": 3500,
-      "collection_id": "63c9ebacb9e5be07783f5f52:categories:Ofertas:/ofertas"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
       "limit": 22,
       "page": 1,
       "collection_id": "63c733134834634f733a078d:categories:Lançamentos:/lancamentos",
       "autoplay": 3500
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "autoplay": 3500,
+      "collection_id": "63c9ebacb9e5be07783f5f52:categories:Ofertas:/ofertas"
     },
     {
       "type": "banners-grid",
@@ -137,6 +137,12 @@
           "link": "https://wa.me/message/MNPEFL74HOVEN1"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
