@@ -61,8 +61,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner_championsleague.jpg",
-          "link": "https://blancatesports.com.br/champions-league"
+          "img": "/img/uploads/9576d1b0-e263-4a23-81e8-c3a346f31348.jpeg",
+          "link": "https://blancatesports.com.br/la-liga"
+        },
+        {
+          "img": "/img/uploads/7733fc32-e0bc-4fe6-bd85-6463f467afcc.jpeg"
         }
       ]
     },
@@ -79,8 +82,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner_libertadores.jpg",
+          "img": "/img/uploads/310afb96-43c4-4489-8e7a-fb00e17b4b71.jpeg",
           "link": "https://blancatesports.com.br/libertadores"
+        },
+        {
+          "img": "/img/uploads/a29cef8f-51cd-45bf-849e-5d268fa85154.jpeg"
         }
       ]
     },
@@ -97,8 +103,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner_personalize.jpg",
+          "img": "/img/uploads/31a5bd62-b6dd-4cfa-b010-42d6135068b9.jpeg",
           "link": ""
+        },
+        {
+          "img": "/img/uploads/e346e11d-1ade-4068-ae2a-2703ae1fa761.jpeg"
         }
       ]
     },
@@ -112,30 +121,12 @@
       "autoplay": 3500
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner_retro.jpg",
-          "link": "https://blancatesports.com.br/retro"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
       "collection_id": "63f10f1bf4167e223c944eb7:categories:Ligue 1:/ligue-1",
       "autoplay": 3500
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner_femininas.jpg",
-          "link": "https://blancatesports.com.br/femininas"
-        }
-      ]
     },
     {
       "type": "info-bar",
