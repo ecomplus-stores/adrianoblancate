@@ -47,17 +47,6 @@
       "autoplay": 3500
     },
     {
-      "autoplay": 3500,
-      "page": 1,
-      "title": "",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "limit": 24,
-      "collection_id": "63f0e01cf4167e223c94273c:categories:Premier League:/premiere-league",
-      "sort": "sales"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
