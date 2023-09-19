@@ -15,8 +15,10 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 10,
+    "featured": [
+      "/lancamentos?Lançamentos"
+    ],
+    "random": 0,
     "full_width": true
   },
   "desktop_megamenu": false,
