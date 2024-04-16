@@ -1,5 +1,15 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "lancamentos",
+    "selecoes",
+    "clubes",
+    "colecao-de-inverno",
+    "retro",
+    "champions-league",
+    "libertadores",
+    "femininas",
+    "conjuntos-infantis"
+  ],
   "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
