@@ -146,6 +146,38 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/png-transparent-manchester-united-logo-old-trafford-manchester-united-f-c-premier-league-chelsea-f-c-fa-cup-manchester-united-logo-food-text-logo.png"
+        },
+        {
+          "img": "/img/uploads/png-transparent-manchester-united-logo-old-trafford-manchester-united-f-c-premier-league-chelsea-f-c-fa-cup-manchester-united-logo-food-text-logo.png"
+        },
+        {
+          "img": "/img/uploads/png-transparent-manchester-united-logo-old-trafford-manchester-united-f-c-premier-league-chelsea-f-c-fa-cup-manchester-united-logo-food-text-logo.png"
+        },
+        {
+          "img": "/img/uploads/real-madrid-logo-0.png"
+        },
+        {
+          "img": "/img/uploads/real-madrid-logo-0.png"
+        },
+        {
+          "img": "/img/uploads/real-madrid-logo-0.png"
+        },
+        {
+          "img": "/img/uploads/escudo_talleres_2015.svg.webp"
+        },
+        {
+          "img": "/img/uploads/escudo_talleres_2015.svg.webp"
+        },
+        {
+          "img": "/img/uploads/escudo_talleres_2015.svg.webp"
+        }
+      ]
     }
   ]
 }
