@@ -1,8 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Ambiente seguro para suas compras",
-    "title": "Compra segura"
+    "text": "Envio rápido e acompanhamento por código de rastreio",
+    "title": "Entrega segura"
   },
   "installments": {
     "show": true,
@@ -11,10 +11,12 @@
   },
   "exchange": {
     "show": true,
-    "text": "Personalize a sua camisa!"
+    "text": "Qualquer problema, devolvemos seu dinheiro na hora",
+    "title": "Satisfação ou reembolso"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Aproveite os últimos dias",
+    "title": "Loja inteira em promoção!"
   }
 }
