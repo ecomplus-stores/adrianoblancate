@@ -31,10 +31,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "autoplay": 2000,
       "page": 1,
       "title": "Confira os últimos lançamentos da temporada 2024/2025!",
@@ -44,6 +40,10 @@
       "limit": 22,
       "collection_id": "63c733134834634f733a078d:categories:Lançamentos 2024/25 🆕:/lancamentos",
       "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
