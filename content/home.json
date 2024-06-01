@@ -31,12 +31,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 22,
+      "autoplay": 2000,
       "page": 1,
-      "collection_id": "63c733134834634f733a078d:categories:Lançamentos:/lancamentos",
-      "autoplay": 3500
+      "title": "Confira os últimos lançamentos da temporada 2024/2025!",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "limit": 22,
+      "collection_id": "63c733134834634f733a078d:categories:Lançamentos 2024/25 🆕:/lancamentos",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
