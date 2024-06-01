@@ -109,11 +109,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/31a5bd62-b6dd-4cfa-b010-42d6135068b9.jpeg",
-          "link": ""
+          "img": "/img/uploads/sem-titulo6.jpeg",
+          "link": "https://blancatesports.com.br/nba"
         },
         {
-          "img": "/img/uploads/e346e11d-1ade-4068-ae2a-2703ae1fa761.jpeg"
+          "img": "/img/uploads/sem-titulo7.jpeg",
+          "link": "https://blancatesports.com.br/conjuntos-infantis"
         }
       ]
     },
