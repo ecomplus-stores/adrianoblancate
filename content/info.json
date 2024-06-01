@@ -1,11 +1,13 @@
 {
   "shipping": {
     "show": true,
-    "text": "Parcele em 6x sem juros!"
+    "text": "Ambiente seguro para suas compras",
+    "title": "Compra segura"
   },
   "installments": {
     "show": true,
-    "text": "Enviamos para todos os Brasil!"
+    "text": "Parcele em 6x sem juros!",
+    "title": "Mais facilidade para você"
   },
   "exchange": {
     "show": true,
