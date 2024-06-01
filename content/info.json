@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entrega segura - envio rápido e acompanhamento por código de rastreio",
+    "text": "Entrega segura",
     "title": ""
   },
   "installments": {
@@ -11,12 +11,12 @@
   },
   "exchange": {
     "show": true,
-    "text": "Satisfação ou reembolso - Qualquer problema, devolvemos seu dinheiro na hora",
+    "text": "Satisfação ou reembolso",
     "title": ""
   },
   "promo": {
     "show": true,
-    "text": "Loja inteira em promoção! - Aproveite os últimos dias",
+    "text": "Loja inteira em promoção!",
     "title": ""
   }
 }
