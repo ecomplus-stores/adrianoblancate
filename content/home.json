@@ -31,29 +31,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/real-madrid-logo-0.png"
-        },
-        {
-          "img": "/img/uploads/escudo_talleres_2015.svg.webp"
-        },
-        {
-          "img": "/img/uploads/real-madrid-logo-0.png"
-        },
-        {
-          "img": "/img/uploads/escudo_talleres_2015.svg.webp"
-        },
-        {
-          "img": "/img/uploads/real-madrid-logo-0.png"
-        },
-        {
-          "img": "/img/uploads/escudo_talleres_2015.svg.webp"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 22,
