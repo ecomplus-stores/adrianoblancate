@@ -31,6 +31,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "autoplay": 2000,
       "page": 1,
       "title": "Confira os últimos lançamentos da temporada 2024/2025!",
@@ -129,10 +133,6 @@
       "page": 1,
       "collection_id": "63f10f1bf4167e223c944eb7:categories:Ligue 1:/ligue-1",
       "autoplay": 3500
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
