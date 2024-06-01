@@ -1,22 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "Envio rápido e acompanhamento por código de rastreio",
-    "title": "Entrega segura"
+    "text": "Entrega segura - envio rápido e acompanhamento por código de rastreio",
+    "title": ""
   },
   "installments": {
     "show": true,
     "text": "Parcele em 6x sem juros!",
-    "title": "Mais facilidade para você"
+    "title": ""
   },
   "exchange": {
     "show": true,
-    "text": "Qualquer problema, devolvemos seu dinheiro na hora",
-    "title": "Satisfação ou reembolso"
+    "text": "Satisfação ou reembolso - Qualquer problema, devolvemos seu dinheiro na hora",
+    "title": ""
   },
   "promo": {
     "show": true,
-    "text": "Aproveite os últimos dias",
-    "title": "Loja inteira em promoção!"
+    "text": "Loja inteira em promoção! - Aproveite os últimos dias",
+    "title": ""
   }
 }
