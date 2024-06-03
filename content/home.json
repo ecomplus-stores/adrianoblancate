@@ -103,9 +103,10 @@
       "shuffle": true,
       "limit": 21,
       "page": 1,
-      "collection_id": "650918242cd6b659595342ea:categories:Conjuntos Infantis:/conjuntos-infantis",
+      "collection_id": "665b40caf4e6d85ab29bff0a:categories:Versão jogador:/versao-jogador",
       "sort": "views",
-      "autoplay": 3500
+      "autoplay": 3500,
+      "title": "Camisas Versão Jogador "
     },
     {
       "type": "banners-grid",
