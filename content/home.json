@@ -31,6 +31,20 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "autoplay": 3500,
+      "collection_id": "665beb61f4e6d85ab29c55bf:categories:Brasileirão:/brasileirao",
+      "sort": null,
+      "title": "Em Alta do Brasileirão 🔥"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "autoplay": 2000,
       "page": 1,
       "title": "Confira os últimos lançamentos da temporada 2024/2025!",
@@ -38,22 +52,8 @@
       "headless": false,
       "type": "collection-shelf",
       "limit": 22,
-      "collection_id": "63c733134834634f733a078d:categories:Lançamentos 2024/25 🆕:/lancamentos",
-      "sort": "views"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 24,
-      "page": 1,
-      "autoplay": 3500,
-      "collection_id": "665beb61f4e6d85ab29c55bf:categories:Brasileirão:/brasileirao",
-      "sort": "views",
-      "title": "Em Alta do Brasileirão 🔥"
+      "collection_id": "63c733134834634f733a078d:categories:Lançamentos 2024/25:/lancamentos",
+      "sort": null
     },
     {
       "type": "banners-grid",
