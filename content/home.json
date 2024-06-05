@@ -143,8 +143,9 @@
       "shuffle": false,
       "limit": 24,
       "page": 1,
-      "collection_id": "64542ee34bd2e929c1ed1a36:categories:Outros Times:/outros-times",
-      "autoplay": 3500
+      "collection_id": "6660f632f4e6d85ab2a1183c:collections:Os mais vendidos:/os-mais-vendidos",
+      "autoplay": 3500,
+      "sort": null
     },
     {
       "type": "banners-grid",
