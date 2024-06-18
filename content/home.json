@@ -59,15 +59,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/7733fc32-e0bc-4fe6-bd85-6463f467afcc.jpeg",
+          "img": "/img/uploads/b-1.jpg",
+          "link": "https://blancatesports.com.br/brasileirao"
+        },
+        {
+          "img": "/img/uploads/b-premiere-1-.jpg",
           "link": "https://blancatesports.com.br/premier-league"
         },
         {
-          "img": "/img/uploads/9576d1b0-e263-4a23-81e8-c3a346f31348.jpeg",
-          "link": "https://blancatesports.com.br/la-liga"
-        },
-        {
-          "img": "/img/uploads/sem-titulo4.jpeg",
+          "img": "/img/uploads/b-selecoes.jpg",
           "link": "https://blancatesports.com.br/selecoes"
         }
       ]
