@@ -85,16 +85,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/sem-titulo3.jpeg",
+          "img": "/img/uploads/b-la-liga-1-.jpg",
+          "link": "https://blancatesports.com.br/la-liga"
+        },
+        {
+          "img": "/img/uploads/b-serie-a.jpg",
           "link": "https://blancatesports.com.br/serie-a"
         },
         {
-          "img": "/img/uploads/sem-titulo2.jpeg",
-          "link": "https://blancatesports.com.br/retro"
-        },
-        {
-          "img": "/img/uploads/sem-titulo5.jpeg",
-          "link": "https://blancatesports.com.br/femininas"
+          "img": "/img/uploads/b-outras-ligas.jpg",
+          "link": "https://blancatesports.com.br/outros-times"
         }
       ]
     },
@@ -112,12 +112,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/sem-titulo6.jpeg",
-          "link": "https://blancatesports.com.br/nba"
+          "img": "/img/uploads/b-retro.jpg",
+          "link": "https://blancatesports.com.br/retro"
         },
         {
-          "img": "/img/uploads/sem-titulo7.jpeg",
+          "img": "/img/uploads/b-kit-infantil.jpg",
           "link": "https://blancatesports.com.br/conjuntos-infantis"
+        },
+        {
+          "img": "/img/uploads/b-feminino.jpg",
+          "link": "https://blancatesports.com.br/femininas"
         }
       ]
     },
