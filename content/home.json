@@ -47,7 +47,7 @@
     {
       "autoplay": 2000,
       "page": 1,
-      "title": "Confira os últimos lançamentos da temporada 2024/2025!",
+      "title": "",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
