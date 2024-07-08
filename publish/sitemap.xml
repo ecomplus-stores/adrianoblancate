@@ -1712,24 +1712,6 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-rangers-third-2223-torcedor-masculina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/camisa-rangers-away-2223-torcedor-masculina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/camisa-rangers-home-2223-torcedor-masculina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://blancatesports.com.br/camisa-boca-juniors-third-2223-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3896,6 +3878,12 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/camisa-lille-osc-home-2425-torcedor-masculina-vermelha-c298</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3968,13 +3956,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/pagamentos</loc>
+      <loc>https://blancatesports.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/faq</loc>
+      <loc>https://blancatesports.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
