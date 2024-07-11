@@ -1316,18 +1316,6 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-athletic-bilbao-away-2223-torcedor-masculina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/camisa-athletic-bilbao-home-2223-torcedor-masculina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://blancatesports.com.br/camisa-atletico-de-madrid-home-2223-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3992,7 +3980,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-san-lorenzo-home-2425-torcedor-masculina-azul-e-vermelha-c825</loc>
+      <loc>https://blancatesports.com.br/camisa-junior-barranquilla-home-2425-torcedor-masculina-vermelha-e-branca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/camisa-junior-barranquilla-home-2425-torcedor-masculina-vermelha-e-branca-c642</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -4070,13 +4064,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/pagamentos</loc>
+      <loc>https://blancatesports.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/faq</loc>
+      <loc>https://blancatesports.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -4130,15 +4124,15 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/app/index</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.6</priority>
-    </url>
-  
-    <url>
       <loc>https://blancatesports.com.br/maintenance/index</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/app/index</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.6</priority>
     </url>
   
 </urlset>
