@@ -38,12 +38,6 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-suica-home-2223-torcedor-masculina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://blancatesports.com.br/camisa-islandia-home-2223-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1293,12 +1287,6 @@
   
     <url>
       <loc>https://blancatesports.com.br/camisa-river-plate-third-2324-torcedor-masculina-preta-e-vermelha</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/camisa-grecia-home-2324-torcedor-masculina-branca-e-azul</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2672,18 +2660,6 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-suica-home-2425-torcedor-masculina-vermelha</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/camisa-suica-away-2425-torcedor-masculina-branca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://blancatesports.com.br/camisa-escocia-home-2425-torcedor-masculina-azul-marinho</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3002,7 +2978,7 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-suica-home-2425-torcedor-masculina-vermelha-puma-oficial-c252</loc>
+      <loc>https://blancatesports.com.br/camisa-suica-away-2425-torcedor-masculina-branca-puma-oficial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -3099,12 +3075,6 @@
   
     <url>
       <loc>https://blancatesports.com.br/servia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/islandia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -4118,13 +4088,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/admin/index</loc>
+      <loc>https://blancatesports.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/app/index</loc>
+      <loc>https://blancatesports.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
