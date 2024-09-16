@@ -1,5 +1,5 @@
 {
-  "css": ".product__buy button {\ncolor: #ffffff;\nbackground-color: #5f9903;\nborder-color: #5f9903;\nwidth: 100%;\n}\n.product__buy button:hover {\nbackground: #4e7d02;\nborder-color: #4e7d02;\n}\n#c-661c6daf0fc534303dfcd08f {\ndisplay: none;\n}",
+  "css": ".product__buy button {\ncolor: #ffffff;\nbackground-color: #5f9903;\nborder-color: #5f9903;\nwidth: 100%;\n}\n.product__buy button:hover {\nbackground: #4e7d02;\nborder-color: #4e7d02;\n}\n#c-661c6daf0fc534303dfcd08f {\ndisplay: none;\n}\n#c-665b40caf4e6d85ab29bff0a {\ndisplay: none;",
   "html_head": "",
   "html_body": ""
 }
