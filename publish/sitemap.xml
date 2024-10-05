@@ -3056,6 +3056,24 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/camisa-as-roma-away-2425-el-shaarawy-92-torcedor-masculina-branco-off-white-adidas-oficial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/camisa-as-roma-away-2425-dybala-21-torcedor-masculina-branco-off-white-adidas-oficial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/camisa-as-roma-away-2425-paredes-16-torcedor-masculina-branco-off-white-adidas-oficial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/lancamentos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -4178,13 +4196,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/app/index</loc>
+      <loc>https://blancatesports.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/admin/index</loc>
+      <loc>https://blancatesports.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
