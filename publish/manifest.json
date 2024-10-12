@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.b94369ac770d3a14849df591fd559662.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.e9184c5e561ee6f93528b6e2dfcd4466.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.202dd9b39e5d0bd75e31efcdc4098e40.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.1a422de015ff51711d55a413598055cb.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.d7381e5d99f4d68893fc6fc3a0928266.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Blancate Sports - Artigos Esportivos",
+  "short_name": "Blancate Sports",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A sua loja de artigos esportivos!",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
