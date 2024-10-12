@@ -902,6 +902,12 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/noruega</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/camisa-alemanha-home-2425-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3927,6 +3933,12 @@
   
     <url>
       <loc>https://blancatesports.com.br/camisa-charlotte-fc-home-2425-torcedor-masculina-branca-e-azul-adidas-oficial</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/camisa-brasil-home-2425-endrick-9-torcedor-masculina-amarela-nike-oficial-c430</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
