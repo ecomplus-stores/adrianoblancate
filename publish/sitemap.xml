@@ -3140,6 +3140,12 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/camisa-atletico-de-madrid-third-griezmann-7-2425-torcedor-masculina-vermelha-e-branca-nike-oficial-c754</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/lancamentos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -4184,13 +4190,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/app/index</loc>
+      <loc>https://blancatesports.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/admin/index</loc>
+      <loc>https://blancatesports.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
