@@ -920,6 +920,18 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/euro-2024-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/camisa-alemanha-home-2425-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -3986,21 +3998,15 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-espanha-2425-williams-jr-17-torcedor-masculina-amarela-adidas-oficial-c979</loc>
+      <loc>https://blancatesports.com.br/camisa-espanha-2425-lamine-yamal-19-torcedor-masculina-amarela-adidas-oficial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <loc>https://blancatesports.com.br/camisa-espanha-2425-lamine-yamal-19-torcedor-masculina-amarela-adidas-oficial-c646</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/euro-2024-</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
