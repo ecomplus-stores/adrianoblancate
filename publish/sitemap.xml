@@ -920,6 +920,18 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/euro-2024-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/camisa-alemanha-home-2425-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -4088,21 +4100,15 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/corta-vento-sporting-cp-2425-masculino-preto-verde-branco-nike-oficial-c656</loc>
+      <loc>https://blancatesports.com.br/corta-vento-arsenal-2425-masculino-roxo-branco-preto-nike-oficial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <loc>https://blancatesports.com.br/corta-vento-arsenal-2425-masculino-roxo-branco-preto-nike-oficial-c529</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/euro-2024-</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -4220,13 +4226,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/app/index</loc>
+      <loc>https://blancatesports.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/admin/index</loc>
+      <loc>https://blancatesports.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
