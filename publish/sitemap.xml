@@ -4130,13 +4130,19 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/entrega</loc>
+      <loc>https://blancatesports.com.br/corta-vento-sporting-cp-2425-masculino-rosa-nike-oficial-c145</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/contato</loc>
+      <loc>https://blancatesports.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
