@@ -4172,6 +4172,12 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/camisa-liverpool-away-09-10-retro-torcedor-masculina-preta-adidas-oficial-c706</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/castore</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -4286,13 +4292,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/admin/index</loc>
+      <loc>https://blancatesports.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/app/index</loc>
+      <loc>https://blancatesports.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
