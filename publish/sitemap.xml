@@ -926,18 +926,6 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/euro-2024-</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://blancatesports.com.br/camisa-alemanha-home-2425-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -4136,9 +4124,21 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-chelsea-home-0506-torcedor-masculina-azul-c420</loc>
+      <loc>https://blancatesports.com.br/camisa-santos-home-11-12-retro-torcedor-masculina-branca-nike-oficial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/euro-2024-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -4196,13 +4196,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/entrega</loc>
+      <loc>https://blancatesports.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/faq</loc>
+      <loc>https://blancatesports.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -4256,13 +4256,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/app/index</loc>
+      <loc>https://blancatesports.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/admin/index</loc>
+      <loc>https://blancatesports.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
