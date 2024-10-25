@@ -926,18 +926,6 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/euro-2024-</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://blancatesports.com.br/camisa-alemanha-home-2425-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -4187,6 +4175,18 @@
       <loc>https://blancatesports.com.br/camisa-inter-de-milao-home-02-03-retro-torcedor-masculina-branca-nike-oficial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/euro-2024-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
