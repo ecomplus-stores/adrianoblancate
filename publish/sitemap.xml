@@ -926,18 +926,6 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/euro-2024-</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://blancatesports.com.br/camisa-alemanha-home-2425-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -4202,9 +4190,27 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/corta-vento-manchester-city-2425-masculino-preto-azul-branco-puma-oficial-c993</loc>
+      <loc>https://blancatesports.com.br/jaqueta-barcelona2024-2025-masculino-preta-nike-oficial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/camisa-olympique-de-lyon-home-2425-torcedor-masculina-branca-adidas-oficial-c972</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/euro-2024-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
