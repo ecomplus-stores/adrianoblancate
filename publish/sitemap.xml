@@ -3368,6 +3368,18 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/euro-2024-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/lancamentos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -4287,18 +4299,6 @@
   
     <url>
       <loc>https://blancatesports.com.br/santos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/euro-2024-</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
