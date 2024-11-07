@@ -4412,7 +4412,7 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-cruzeiro-home-2425-torcedor-masculina-azul-adidas-oficial-c939</loc>
+      <loc>https://blancatesports.com.br/camisa-fluminense-home-2425-torcedor-masculina-branco-verde-grena-umbro-oficial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -4472,13 +4472,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/entrega</loc>
+      <loc>https://blancatesports.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/faq</loc>
+      <loc>https://blancatesports.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -4532,13 +4532,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/app/index</loc>
+      <loc>https://blancatesports.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/admin/index</loc>
+      <loc>https://blancatesports.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
