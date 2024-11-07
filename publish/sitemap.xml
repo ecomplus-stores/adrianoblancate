@@ -4430,7 +4430,7 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-fluminense-goleiro-2425-torcedor-masculina-laranja-umbro-oficial-c783</loc>
+      <loc>https://blancatesports.com.br/camisa-fluminense-goleiro-2425-torcedor-masculina-amarelo-umbro-oficial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -4562,13 +4562,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/admin/index</loc>
+      <loc>https://blancatesports.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/app/index</loc>
+      <loc>https://blancatesports.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
