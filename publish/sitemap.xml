@@ -4448,6 +4448,12 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/camisa-fluminense-away-2425-torcedor-masculina-branca-umbro-oficial-c653</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -4556,15 +4562,15 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://blancatesports.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
