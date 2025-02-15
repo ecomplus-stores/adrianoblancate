@@ -4502,6 +4502,12 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/camisa-palmeiras-home-25-26-torcedor-masculina-puma-oficial-verde-c935</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -4586,13 +4592,13 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/privacidade</loc>
+      <loc>https://blancatesports.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/pages/sobre-nos</loc>
+      <loc>https://blancatesports.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
