@@ -938,6 +938,18 @@
     </url>
   
     <url>
+      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://blancatesports.com.br/euro-2024-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://blancatesports.com.br/camisa-alemanha-home-2425-torcedor-masculina</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -4538,21 +4550,15 @@
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/camisa-colo-colo-home-2526-torcedor-masculina-branca-adidas-oficial-c564</loc>
+      <loc>https://blancatesports.com.br/camisa-colo-colo-treino-2526-torcedor-masculina-preta-lilas-adidas-oficial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://blancatesports.com.br/os-mais-vendidos</loc>
+      <loc>https://blancatesports.com.br/camisa-colo-colo-treino-2526-torcedor-masculina-preta-lilas-adidas-oficial-c495</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://blancatesports.com.br/euro-2024-</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
